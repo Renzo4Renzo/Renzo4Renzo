@@ -6,7 +6,7 @@
 
 ## Contact me
 
-- 📫 You can contact me at renzodiaz554@gmail.com
+📫 You can contact me at renzodiaz554@gmail.com
 
 <!---
 Renzo4Renzo/Renzo4Renzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
