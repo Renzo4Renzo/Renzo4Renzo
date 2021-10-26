@@ -1,9 +1,11 @@
 # Renzo Diaz :male_detective:
 
-- 👋 Hi, I’m Renzo, a passionate :peru: Peruvian developer :peru:!
-- 👀 I’m interested in Web Developer, either backend or frontend technologies!
-- 🌱 I’m currently learning React.js!
-- 💞️ I’m looking to collaborate on all kind of Web Projects!
+👋 Hi, I’m Renzo, a passionate :peru: Peruvian developer :peru:! 👀 I’m interested in Web Development, either backend or frontend technologies!
+
+🌱 I’m currently learning MEAN and MERN stacks! 💞️ I’m looking to collaborate on all kind of Web Projects!
+
+## Contact me
+
 - 📫 You can contact me at renzodiaz554@gmail.com
 
 <!---
