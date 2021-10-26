@@ -1,6 +1,6 @@
 # Renzo Diaz :male_detective:
 
-👋 Hi, I’m Renzo, a passionate Peruvian :peru: developer ! 👀 I’m interested in Web Development, either backend or frontend technologies!
+👋 Hi, I’m Renzo, a passionate Peruvian :peru: developer ! I’m interested in Web Development, either backend or frontend, and I'm always looking to learn new technologies! 
 
 🌱 I’m currently learning MEAN and MERN stacks, so I would be honored to be part of any kind of web devolepment and make clients happy around the world!
 
