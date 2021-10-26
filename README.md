@@ -1,4 +1,4 @@
-#Renzo Diaz :boy:
+# Renzo Diaz :male_detective:
 
 - 👋 Hi, I’m Renzo, a passionate :peru: Peruvian developer :peru:!
 - 👀 I’m interested in Web Developer, either backend or frontend technologies!
