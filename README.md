@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Renzo, a passionate :peru: Peruvian developer :peru:! 👀 I’m interested in Web Development, either backend or frontend technologies!
 
-🌱 I’m currently learning MEAN and MERN stacks! 💞️ I’m looking to collaborate on all kind of Web Projects!
+🌱 I’m currently learning MEAN and MERN stacks, so I would be honored to be part of any kind of web devolepment and make clients happy around the world!
 
 ## Contact me
 
