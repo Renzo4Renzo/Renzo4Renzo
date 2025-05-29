@@ -1,6 +1,6 @@
 # Renzo Diaz :male_detective:
 
-👋 Hi, I’m Renzo, a passionate Peruvian :peru: NodeJS developer ! I’m interested in BackEnd Development, and I'm always looking to learn new technologies! 
+👋 Hi, I’m Renzo, a passionate Peruvian :peru: Javascript developer ! I’m interested in BackEnd Development, and I'm always looking to learn new technologies! 
 
 :blue_book: I’m currently enhancing my Javascript knowledge, so I would be honored to be part of any kind of web devolepment and make clients happy around the world!
 
