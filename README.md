@@ -10,7 +10,7 @@ I design and build full-stack systems—from robust backend architectures to cle
 
 ## Key Wins
 
-- **50% efficiency gains** through high-impact system redesigns and **$20K+ monthly losses prevented** via improved subscription processes
+- **$50K+ monthly losses prevented** via improved subscription processes
 - **30% revenue increase** from financial and ticketing platform builds
 - **95% reduction in insecure flows** at a medical firm (Salesforce + Node.js integration)
 - **9× performance boost** on education platform onboarding (76% → 97% success rate)
