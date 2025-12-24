@@ -1,14 +1,27 @@
-# Renzo Diaz :male_detective:
+# Renzo Diaz
 
-👋 Hi, I’m Renzo, a passionate Peruvian :peru: Javascript developer ! I’m interested in BackEnd Development, and I'm always looking to learn new technologies! 
+Senior Full-Stack JavaScript Engineer with 7+ years building scalable platforms that solve real problems and drive measurable results.
 
-:blue_book: I’m currently enhancing my Javascript knowledge, so I would be honored to be part of any kind of web devolepment and make clients happy around the world!
+## What I Do
 
-## Contact me
+I design and build full-stack systems—from robust backend architectures to clean, maintainable frontends. My focus: solutions that reduce costs, improve reliability, and deliver business value.
 
-📫 You can contact me at renzodiaz554@gmail.com
+## Key Wins
 
-<!---
-Renzo4Renzo/Renzo4Renzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **50% efficiency gains** through high-impact system redesigns
+- **$20K+ monthly losses prevented** via improved backend processes
+- **30% revenue increase** from financial and ticketing platform builds
+- **95% reduction in insecure flows** at a medical firm (Salesforce + Node.js integration)
+- **9× performance boost** on education platform onboarding (76% → 97% success rate)
+- **35% increase in sales/requests** from end-to-end product development
+
+## What People Say
+
+*"Renzo is a true visionary, possessing the ability to identify opportunities, develop solutions, and inspire teams to take on new challenges. His deep understanding of technology and innovation drives business growth."*  
+— Javier Rojas, Globant
+
+## Let's Build
+
+I'm looking for opportunities to lead full-stack development efforts. If you need someone who delivers systems that work and teams that thrive, let's talk.
+
+📫 **renzodiaz554@gmail.com**
