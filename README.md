@@ -22,6 +22,6 @@ I design and build full-stack systems—from robust backend architectures to cle
 
 ## Let's Build
 
-I'm looking for opportunities to lead full-stack development efforts. If you need someone who delivers systems that work and teams that thrive, let's talk.
+I'm looking for opportunities to skyrocket full-stack development efforts. If you need someone who delivers systems that work and teams that thrive, let's talk.
 
-📫 **renzodiaz554@gmail.com**
+🔗 **[linkedin.com/in/renzo-diaz-vila](https://www.linkedin.com/in/renzo-diaz-vila/)**
