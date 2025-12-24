@@ -1,5 +1,7 @@
 # Renzo Diaz
 
+🔗 **[linkedin.com/in/renzo-diaz-vila](https://www.linkedin.com/in/renzo-diaz-vila/)** | 📫 **renzodiaz554@gmail.com**
+
 Senior Full-Stack JavaScript Engineer with 7+ years building scalable platforms that solve real problems and drive measurable results.
 
 ## What I Do
@@ -22,5 +24,3 @@ I design and build full-stack systems—from robust backend architectures to cle
 ## Let's Build
 
 I'm looking for opportunities to skyrocket full-stack development efforts. If you need someone who delivers systems that work and teams that thrive, let's talk.
-
-🔗 **[linkedin.com/in/renzo-diaz-vila](https://www.linkedin.com/in/renzo-diaz-vila/)**
