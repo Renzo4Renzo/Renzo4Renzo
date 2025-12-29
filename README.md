@@ -19,7 +19,7 @@ I design and build full-stack systems—from robust backend architectures to cle
 ## What People Say
 
 *"Renzo is a true visionary, possessing the ability to identify opportunities, develop solutions, and inspire teams to take on new challenges. His deep understanding of technology and innovation drives business growth."*  
-— Javier Rojas, Globant
+— Javier Rojas
 
 ## Let's Build
 
